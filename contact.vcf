@@ -1,10 +1,10 @@
-
 BEGIN:VCARD
 VERSION:3.0
-FN:VINU PANNACKAL,  PhD MIET
+N:Pannackal;Vinu;;PhD MIET;
+FN:Vinu Pannackal
 ORG:Advanced Actuator Ltd
-TITLE:CONTROLS ENGINEER
-TEL;TYPE=CELL:+441535655151
-EMAIL:vinu@ae.group
+TITLE:Controls Engineer
+TEL;TYPE=WORK,VOICE:+441535655151
+EMAIL;TYPE=WORK,INTERNET:vinu@ae.group
 URL:https://www.ae.group
 END:VCARD
